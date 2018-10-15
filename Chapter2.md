@@ -33,7 +33,7 @@ Checkpoint 3 — 证据题（Evidence题）方法论
 密码：REvidence
 
 Checkpoint 4 — 目的题整体方法论
-
+-----
 目的题是SAT阅读题型中除循证题之外第二大的题型，因此也是我们题型方法论讲解的重点。在第一个视频中，我们先介绍目的题的基本方法论和基本类型。
 
 <cr type="player" parameters="XMzgzODgzOTg2OA=="><notice>播放器功能在此无法正常显示，请移步至[程谱 coderecipe.cn](https://coderecipe.cn/learn/10)查看。</notice></cr>

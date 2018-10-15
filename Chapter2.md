@@ -56,56 +56,32 @@ Checkpoint 5 — 修辞类目的题解题技巧和例题
 
 ![](2-1.jpg)
 
-上面这道题的答案是：
-
-A.	   B.     C.     D.   
-
-正确选项是：A
+<cr type="hidden" parameters="点击查看答案"><notice>隐藏内容功能在此无法正常显示，请移步至[程谱 coderecipe.cn](https://coderecipe.cn/learn/1)查看。</notice>正确答案：正确选项是：A</cr>
 
 
 ![](2-2.jpg)
 
-上面这道题的答案是：
-
-A.	    B.     C.     D.   
-
-正确选项是：B
+<cr type="hidden" parameters="点击查看答案"><notice>隐藏内容功能在此无法正常显示，请移步至[程谱 coderecipe.cn](https://coderecipe.cn/learn/1)查看。</notice>正确答案：正确选项是：B</cr>
 
 
 ![](2-3.jpg)
 
-上面这道题的答案是：
-
-A.	    B.     C.     D.   
-
-正确选项是：D
+<cr type="hidden" parameters="点击查看答案"><notice>隐藏内容功能在此无法正常显示，请移步至[程谱 coderecipe.cn](https://coderecipe.cn/learn/1)查看。</notice>正确答案：正确选项是：D</cr>
 
 
 ![](2-4.jpg)
 
-上面这道题的答案是：
-
-A.	    B.     C.     D.   
-
-正确选项是：C
+<cr type="hidden" parameters="点击查看答案"><notice>隐藏内容功能在此无法正常显示，请移步至[程谱 coderecipe.cn](https://coderecipe.cn/learn/1)查看。</notice>正确答案：正确选项是：C</cr>
 
 
 ![](2-5.jpg)
 
-上面这道题的答案是：
-
-A.	    B.     C.     D.   
-
-正确选项是：C
+<cr type="hidden" parameters="点击查看答案"><notice>隐藏内容功能在此无法正常显示，请移步至[程谱 coderecipe.cn](https://coderecipe.cn/learn/1)查看。</notice>正确答案：正确选项是：C</cr>
 
 
 ![](2-6.jpg)
 
-上面这道题的答案是：
-
-A.	    B.     C.     D.   
-
-正确选项是：B
+<cr type="hidden" parameters="点击查看答案"><notice>隐藏内容功能在此无法正常显示，请移步至[程谱 coderecipe.cn](https://coderecipe.cn/learn/1)查看。</notice>正确答案：正确选项是：B</cr>
 
 
 Checkpoint 6 — 特殊目的题解题技巧和例题
@@ -121,20 +97,12 @@ Checkpoint 6 — 特殊目的题解题技巧和例题
 
 ![](2-7.jpg)
 
-上面这道题的答案是：
-
-A.	    B.     C.     D.   
-
-正确选项是：A
+<cr type="hidden" parameters="点击查看答案"><notice>隐藏内容功能在此无法正常显示，请移步至[程谱 coderecipe.cn](https://coderecipe.cn/learn/1)查看。</notice>正确答案：正确选项是：A</cr>
 
 
 ![](2-8.jpg)
 
-上面这道题的答案是：
-
-A.	    B.     C.     D.   
-
-正确选项是：D
+<cr type="hidden" parameters="点击查看答案"><notice>隐藏内容功能在此无法正常显示，请移步至[程谱 coderecipe.cn](https://coderecipe.cn/learn/1)查看。</notice>正确答案：正确选项是：D</cr>
 
 
 Checkpoint 7 — 信息目的题解题技巧和例题
@@ -160,12 +128,8 @@ Checkpoint 8 — 段落目的题及目的题方法论总结
 
 ![](2-9.jpg)
 
-上面这道题的答案是：
-
-A.	    B.     C.     D.   
-
-正确选项是：
-解析：
+<cr type="hidden" parameters="点击查看答案"><notice>隐藏内容功能在此无法正常显示，请移步至[程谱 coderecipe.cn](https://coderecipe.cn/learn/1)查看。</notice>正确答案：正确选项是：D</cr>
+解析：这个题目如果只看第一段来去选择段意的话，非常有可能被误导，认为Willow tree才是这篇文章的主角；但是再看下一段第一句就可以发现，其实Willow tree只是一个开场引子，真正的主角是salicylic acid。
 
 总结
 -----

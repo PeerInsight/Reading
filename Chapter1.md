@@ -26,7 +26,8 @@ B.	Social Science
 C.	History
 D.	Literature
 
-正确答案：D
+<cr type="hidden" parameters="点击查看答案"><notice>隐藏内容功能在此无法正常显示，请移步至[程谱 coderecipe.cn](https://coderecipe.cn/learn/1)查看。</notice>正确答案：D</cr>
+
 
 ![](1-2.jpg)
 
@@ -36,7 +37,7 @@ B.	Social Science
 C.	History
 D.	Literature
 
-正确答案：C
+<cr type="hidden" parameters="点击查看答案"><notice>隐藏内容功能在此无法正常显示，请移步至[程谱 coderecipe.cn](https://coderecipe.cn/learn/1)查看。</notice>正确答案：C</cr>
 
 
 Checkpoint 3 — 题型巩固练习
@@ -50,7 +51,7 @@ B.	目的题
 C.	双篇题
 D.	主旨题
 
-正确答案：B
+<cr type="hidden" parameters="点击查看答案"><notice>隐藏内容功能在此无法正常显示，请移步至[程谱 coderecipe.cn](https://coderecipe.cn/learn/1)查看。</notice>正确答案：B</cr>
 
 ![](1-4.jpg)
 
@@ -60,7 +61,7 @@ B.	目的题
 C.	双篇题
 D.	主旨题
 
-正确答案：A
+<cr type="hidden" parameters="点击查看答案"><notice>隐藏内容功能在此无法正常显示，请移步至[程谱 coderecipe.cn](https://coderecipe.cn/learn/1)查看。</notice>正确答案：A</cr>
 
 ![](1-5.jpg)
 
@@ -70,7 +71,7 @@ B.	目的题
 C.	双篇题
 D.	主旨题
 
-正确答案：D
+<cr type="hidden" parameters="点击查看答案"><notice>隐藏内容功能在此无法正常显示，请移步至[程谱 coderecipe.cn](https://coderecipe.cn/learn/1)查看。</notice>正确答案：D</cr>
 
 Checkpoint 4 — SAT备考指南
 -----

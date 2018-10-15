@@ -1,0 +1,104 @@
+{
+  "name": "语法教科书",
+  "desc": "这套SAT Writing & Language Test视频课程涵盖了SAT语法考试的所有知识点（包括基础语法部分和篇章类问题），知识点和例题相结合。强烈建议学习者有国内高一水平的语法基础；可以在上课前简单浏览一下SAT语法试题概况，但不要求有SAT考试经验。新SAT阅读尤其注重学术写作能力的考察，面对AT语法文章，请时刻提醒自己以editor的身份而非reader的身份进行阅读。  ",
+  "keywords": ["语法"],
+  "cover": "cover.jpg",
+  "tags": ["基础", "入门"],
+  "lang": "",
+  "chapters": [
+    {
+      "name": "前言",
+      "content": "Chapter0.md",
+      "sections": [
+        {"name":"在学习之前"}
+      ]
+    },
+    {
+      "name": "Introduction to SAT Reading Test",
+      "content": "Chapter1.md",
+      "sections": [
+        {"name":"SAT介绍"},
+        {"name":"SAT介绍"},
+        {"name":"题型巩固练习"},
+        {"name":"SAT备考指南"},
+        {"name":"重要注意事项"},
+        {"name":"学习工具和资料发放"}
+      ]
+    },
+    {
+      "name": "题型方法论：目的题，态度题， 和证据题",
+      "content": "Chapter2.md",
+      "sections": [
+        {"name":"温馨提示"},
+        {"name":"态度题解题方法论"},
+        {"name":"证据题（Evidence题）方法论"},
+        {"name":"目的题整体方法论"},
+        {"name":"修辞类目的题解题技巧和例题"},
+        {"name":"特殊目的题解题技巧和例题"}
+      ]
+    },
+    {
+      "name": "题型解题方法论：循证题（基础版）",
+      "content": "Chapter3.md",
+      "sections": [
+        {"name":"前言"},
+        {"name":"循证题介绍"},
+        {"name":"循证题方法论入门"},
+        {"name":"循证题方法论训练例题"},
+        {"name":"找对应时的注意点"},
+        {"name":"上代下，下代上方法的优越性"},
+        {"name":"一个简单易懂的小例子"},
+        {"name":"总结"},
+        {"name":"结语"}
+      ]
+    },
+    {
+      "name": "题型解题方法论：循证题（进阶版）",
+      "content": "Chapter4.md",
+      "sections": [
+        {"name":"前言"},
+        {"name":"NC题和Bitch题的区别"},
+        {"name":"又一个简单易懂的小例子"},
+        {"name":"Bitch题的四种对应方式"},
+        {"name":"weakness题目的小技巧"},
+        {"name":"可汗学院错在哪儿了"},
+        {"name":"循证题进阶方法论总结"}
+      ]
+    },
+    {
+      "name": "文章方法论：科学类文章",
+      "content": "Chapter5.md",
+      "sections": [
+        {"name":"前言"},
+        {"name":"科学类文章方法论概述"},
+        {"name":"文章示例1"},
+        {"name":"文章示例2"},
+        {"name":"文章示例3"},
+        {"name":"科学类文章总结"}
+      ]
+    },
+    {
+      "name": "双篇文章",
+      "content": "Chapter6.md",
+      "sections": [
+        {"name":"在学习之前"},
+        {"name":"题目资源"},
+        {"name":"双篇的文章题材选择"},
+        {"name":"题型解构"},
+        {"name":"方法论讲解"},
+        {"name":"示范篇章讲解"},
+        {"name":"示范篇章讲解2"},
+        {"name":"方法论总结 & FAQ解答"}
+      ]
+    },
+    {
+      "name": "小说文章方法论",
+      "content": "Chapter7.md",
+      "sections": [
+        {"name":"小说方法论概述"},
+        {"name":"文章示例1"},
+        {"name":"文章示例2"}
+      ]
+    }
+  ]
+}

@@ -14,7 +14,8 @@
       ]
     },
     {
-      "name": "Introduction to SAT Reading Test",
+      "name": "第一章",
+      "subtitle": "Introduction to SAT Reading Test",
       "content": "Chapter1.md",
       "sections": [
         {"name":"SAT介绍"},
@@ -26,7 +27,8 @@
       ]
     },
     {
-      "name": "题型方法论：目的题，态度题， 和证据题",
+      "name": "第二章",
+      "subtitle": "题型方法论：目的题，态度题， 和证据题",
       "content": "Chapter2.md",
       "sections": [
         {"name":"温馨提示"},
@@ -38,7 +40,8 @@
       ]
     },
     {
-      "name": "题型解题方法论：循证题（基础版）",
+      "name": "第三章",
+      "subtitle": "题型解题方法论：循证题（基础版）",
       "content": "Chapter3.md",
       "sections": [
         {"name":"前言"},
@@ -53,7 +56,8 @@
       ]
     },
     {
-      "name": "题型解题方法论：循证题（进阶版）",
+      "name": "第四章",
+      "subtitle": "题型解题方法论：循证题（进阶版）",
       "content": "Chapter4.md",
       "sections": [
         {"name":"前言"},
@@ -66,7 +70,8 @@
       ]
     },
     {
-      "name": "文章方法论：科学类文章",
+      "name": "第五章",
+      "subtitle": "文章方法论：科学类文章",
       "content": "Chapter5.md",
       "sections": [
         {"name":"前言"},
@@ -78,7 +83,8 @@
       ]
     },
     {
-      "name": "双篇文章",
+      "name": "第六章",
+      "subtitle": "双篇文章",
       "content": "Chapter6.md",
       "sections": [
         {"name":"在学习之前"},
@@ -92,7 +98,8 @@
       ]
     },
     {
-      "name": "小说文章方法论",
+      "name": "第七章",
+      "subtitle": "小说文章方法论",
       "content": "Chapter7.md",
       "sections": [
         {"name":"小说方法论概述"},

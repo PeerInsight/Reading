@@ -18,7 +18,8 @@ Checkpoint 1 — NC题和Bitch题的区别
 
 NC题的对应方式是同义改写，而Bitch题的对应方式是逻辑推断。什么叫做同义改写，什么又是逻辑推断，NC题和Bitch题两种循证题的区别又是什么，这是我们在接下来的视频中将会讲到的。
 
-https://v.youku.com/v_show/id_XMzgzOTA0MTEwOA==.html?spm=a2h3j.8428770.3416059.1 
+<cr type="player" parameters="XMzgzOTA0MTEwOA=="><notice>播放器功能在此无法正常显示，请移步至[程谱 coderecipe.cn](https://coderecipe.cn/learn/10)查看。</notice></cr>
+
 密码：R206
 
 
@@ -26,7 +27,7 @@ Checkpoint 2 — 又一个简单易懂的小例子
 -----
 还记得在上一章循证题基础中，我们用一个小明的例子来讲述了上代下，下代上的方法论，这一次我们依旧借用这个例子来讲一讲NC题和Bitch题的区别。
 
-http://v.youku.com/v_show/id_XMzg1NTQwNjI4OA==.html?spm=a2h3j.8428770.3416059.1 
+<cr type="player" parameters="XMzg1NTQwNjI4OA=="><notice>播放器功能在此无法正常显示，请移步至[程谱 coderecipe.cn](https://coderecipe.cn/learn/10)查看。</notice></cr>
 
 密码：R207
 
@@ -39,7 +40,7 @@ Checkpoint 3 — Bitch题的四种对应方式
 4.	具象化。Specification
 但是请注意，我们找到这些题目中常见的推断逻辑并不是要大家在做题的时候刻意去判断这是哪种推断逻辑，就算不知道属于哪种推断逻辑也一样可以做出Bitch题，给大家介绍这些逻辑方式只不过是让大家更好的理解Bitch题的对应方式，同时看一些例题。
 
-http://v.youku.com/v_show/id_XMzg1MjY4NTk1Mg==.html?spm=a2h3j.8428770.3416059.1 
+<cr type="player" parameters="XMzg1MjY4NTk1Mg=="><notice>播放器功能在此无法正常显示，请移步至[程谱 coderecipe.cn](https://coderecipe.cn/learn/10)查看。</notice></cr>
 
 密码：R208
 
@@ -55,7 +56,7 @@ Checkpoint 4 — weakness题目的小技巧
 
 遇到这种题目，我们有一个小技巧，请看视频讲解：
 
-http://v.youku.com/v_show/id_XMzg0NDIxMjI1Ng==.html?spm=a2h3j.8428770.3416059.1 
+<cr type="player" parameters="XMzg0NDIxMjI1Ng=="><notice>播放器功能在此无法正常显示，请移步至[程谱 coderecipe.cn](https://coderecipe.cn/learn/10)查看。</notice></cr>
 
 密码：R209
 
@@ -63,8 +64,7 @@ Checkpoint 5 — 可汗学院错在哪儿了
 -----
 在一开始的SAT阅读导论中我们就说过，最靠谱的SAT阅读题目是OG和真题，可汗学院也是除了真题，OG之外唯一可以做的模拟题了。但是毕竟是模拟题，其出题思路肯定和真题不是完全相符，所以我们说可汗学院一定要用批判的方式去做。接下来我们就要讲到可汗学院一个重大的出题思路偏差。
 
-
-http://v.youku.com/v_show/id_XMzg0NDIxMjg3Mg==.html?spm=a2h3j.8428770.3416059.1 
+<cr type="player" parameters="XMzg0NDIxMjg3Mg=="><notice>播放器功能在此无法正常显示，请移步至[程谱 coderecipe.cn](https://coderecipe.cn/learn/10)查看。</notice></cr>
 
 密码：R210
 
@@ -84,6 +84,6 @@ Checkpoint 6 — 循证题进阶方法论总结
 
 有了正确的expectation，我们做题的时候就会更加的迅速。最后来让我们看这个总结视频吧！
 
-http://v.youku.com/v_show/id_XMzg0NDIxMzcxMg==.html?spm=a2h3j.8428770.3416059.1 
+<cr type="player" parameters="XMzg0NDIxMzcxMg=="><notice>播放器功能在此无法正常显示，请移步至[程谱 coderecipe.cn](https://coderecipe.cn/learn/10)查看。</notice></cr>
 
 密码：R211
